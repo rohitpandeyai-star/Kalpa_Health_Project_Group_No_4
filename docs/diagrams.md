@@ -41,7 +41,7 @@ flowchart LR
 
 ## 2 · Data context: what each export records, and what it cannot see
 
-```mermaid
+```mermaidx`
 flowchart TB
     P["Patient"] -->|books| B["bookings: one visit, several tests"]
     B -->|sample taken, or not| C["collections: collected / no_show"]
