@@ -1,18 +1,17 @@
-# Project statement · Brief <LETTER> · Group <N>
+# Project statement · Brief A · Group 4
 
 Written in Scope, before the data is opened. Updated when the data proves a line wrong, with the old line struck through rather than deleted, so the panel can see what you learned.
 
 ## 1. Dr Menon's words
 
-> <Paste the quote from the brief.>
+Show me the part of my business that is short, by how much, and where
 
 ## 2. The question in our words
-
-<Two or three sentences. What is she really asking, what decision does the answer drive, and what would she do differently depending on the answer? If both answers lead to the same action, say so: it means the question is not yet the right one.>
+Why did test volume grow about 5% in H1 when the plan called for 18%, and which parts of the business account for the gap?
 
 ## 3. The question she did not ask
 
-<One question that could change her decision and that she did not raise. Say why it matters.>
+Recovering the test-volume gap would actually improve margin, given the revenue and costs of the additional tests. Brief A says the budget was built for 18% growth and the shortfall is already costing margin, but it doesn’t ask whether the tests that could be recovered would be profitable.
 
 ## 4. Translation into the method
 

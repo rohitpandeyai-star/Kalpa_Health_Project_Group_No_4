@@ -1,4 +1,4 @@
-# Individual write-ups · Brief <LETTER> · Group <N>
+# Individual write-ups · Brief A · Group 4
 
 ## Group summary
 
@@ -8,16 +8,18 @@
 
 Each section below is written by one member in their own words, without any assistant, 600 to 900 words, and committed by its author. Read each other's sections; do not edit them. Fill a question or two each evening.
 
-## <Member name>
+## Chaitanya Bharat
 
 **1. In your own words, what was Dr Menon asking for, and what did she actually need?**
+-  “Show me the part of my business that is short, by how much, and where.”
+
+- Our team interpreted this as explaining why H1 test volume grew about 5% against an 18% plan, and locating the shortfall so leaders could decide where to act.
 
 **2. Which part of the work was yours, and what did you produce that the group now depends on?**
-
+- I have started using the boilerplate and profiling the data with the tools provided in the kalpa package
 **3. Which approaches did you consider for your part, which did you choose, and why not the others?**
-
+- I just checked the files and I felt it will be easy to clean and validate the data and convert all the legacy and  nova bookings to a common format to work.  
 **4. Which number do you trust most, what is its denominator, and what would make you stop trusting it?**
-
 **5. What broke, what did you try, and what did you change? Point at the challenges-log entry.**
 
 **6. What do you understand about a diagnostics business now that you did not before?**

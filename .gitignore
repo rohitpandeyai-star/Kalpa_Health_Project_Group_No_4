@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+data/clean/*
+!data/clean/README.md
+*.sqlite
+*.sqlite-journal
+.idea
