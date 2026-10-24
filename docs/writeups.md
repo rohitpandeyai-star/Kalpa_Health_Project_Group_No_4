@@ -1,4 +1,4 @@
-# Individual write-ups · Brief <LETTER> · Group <N>
+# Individual write-ups · Brief A · Group 4
 
 ## Group summary
 
@@ -8,7 +8,7 @@
 
 Each section below is written by one member in their own words, without any assistant, 600 to 900 words, and committed by its author. Read each other's sections; do not edit them. Fill a question or two each evening.
 
-## <Member name>
+## Chaitanya Bharat
 
 **1. In your own words, what was Dr Menon asking for, and what did she actually need?**
 

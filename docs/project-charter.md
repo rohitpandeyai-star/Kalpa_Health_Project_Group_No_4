@@ -4,13 +4,13 @@ The charter is the one page a sponsor signs before work starts. It says what wil
 
 | | |
 |---|---|
-| Project | Build 1 · Data to Insight in Kalpa Health · Brief <LETTER>, <name> |
+| Project | Build 1 · Data to Insight in Kalpa Health · Brief A, <name> |
 | Sponsor | Dr Priya Menon, COO, Kalpa Health |
 | Reviewers | The finance controller (auditability); <the stakeholder your brief touches> |
-| Group | <N>: <member>, <member>, <member>, <member> |
-| Repository | <public URL> |
+| Group | 4: Rohit Pandey, Chaitanya Bharat, Shivam Singh |
+| Repository | [<public URL>](https://github.com/rohitpandeyai-star/c2-build1-brief-A-group-4-public) |
 | Working days | Three to four, ending with the presentation |
-| Charter committed on | <date> |
+| Charter committed on | 24-10-20216 |
 
 ## 1. The question, in the sponsor's words
 
