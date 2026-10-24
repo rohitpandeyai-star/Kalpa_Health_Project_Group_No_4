@@ -5,3 +5,14 @@ __pycache__/
 .DS_Store
 data/clean/*.csv
 !data/clean/README.md
+data/clean/kalpa.sqlite
+slides/board_number.xlsx
+slides/~$Build1_BriefA_Group4.pptx
+slides/Build1_BriefA_Group4.pptx
+notebooks/06_answer_cold_run.ipynb
+notebooks/06_answer_cold_run.ipynb
+docs/writeups.md
+docs.rar
+notebooks/06_answer_cold_run.ipynb
+notebooks/06_answer_cold_run.ipynb
+notebooks/06_answer_cold_run.ipynb
