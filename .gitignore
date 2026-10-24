@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-data/clean/*.csv
+data/clean/*
 !data/clean/README.md
+*.sqlite
+*.sqlite-journal
 .idea
